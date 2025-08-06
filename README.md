@@ -19,13 +19,13 @@ Saya seorang pengembang dengan fokus di:
 
 ## 📊 Statistik GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarhatta&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moehoemar&layout=compact&theme=default)
 
 ---
 
 ## 📫 Hubungi Saya
 
-- ✉️ Email: umarhatta@email.com  
+- ✉️ Email: umarhatta.official@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/umarhatta](https://linkedin.com/in/umarhatta)
 
 ---
