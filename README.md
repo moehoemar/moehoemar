@@ -3,10 +3,8 @@
 Selamat datang di profil GitHub saya!  
 Saya seorang pengembang dengan fokus di:
 
-- 📱 Mobile Development menggunakan Flutter
-- 🌐 Web Development dengan React & Node.js
-- 🔒 Keamanan Aplikasi dan Jaringan
-
+- Mobile Developer
+- Frontend Developer
 ---
 
 ## 🛠️ Tech Stack
